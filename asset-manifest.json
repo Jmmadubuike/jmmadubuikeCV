@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jmmadubuikeCV/static/css/main.33b58c7a.css",
+    "main.js": "/jmmadubuikeCV/static/js/main.980c1c95.js",
+    "index.html": "/jmmadubuikeCV/index.html",
+    "main.33b58c7a.css.map": "/jmmadubuikeCV/static/css/main.33b58c7a.css.map",
+    "main.980c1c95.js.map": "/jmmadubuikeCV/static/js/main.980c1c95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33b58c7a.css",
+    "static/js/main.980c1c95.js"
+  ]
+}
